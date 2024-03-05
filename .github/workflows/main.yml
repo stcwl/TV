@@ -34,7 +34,7 @@ jobs:
           sudo chmod +x /usr/local/bin/chromedriver
 
       - name: Run JDY
-        run: python ${{ github.workspace }}/JDY.py
+        run: python ${{ github.workspace }}/JDYIPTV.py
         
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v4.0.0
