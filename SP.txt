@@ -1,0 +1,156 @@
+
+体育频道,#genre#
+五星体育 16M,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+五星体育,http://dp.sxtv.top:88/live/bestv.php?id=wxty
+广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+beIN SPORTS 1,https://edge1.laotv.la/live/Bsport1/index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
+SKY SPORTS F1 4K FHD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+天空体育 F1,https://epg.pw/stream/9da0153da74525c2ab3b6587886960417baf3c049121696cb30dc38ea43b371b.ctv
+天空体育 F1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
+beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
+Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
+beIN Sports 2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
+NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+Sky Sports F1,P2p://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+🦄NBA-CBA「更新中」,#genre#
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA Prime Vídeo 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903404
+NBA 1 Golden State Warriors ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 17 Brooklyn Nets ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+🦄咪咕视频-①🏆,#genre#
+咪咕视频1,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+咪咕视频2,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+咪咕视频3,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+咪咕视频4,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+咪咕视频5,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+咪咕视频6,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+咪咕视频7,http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+咪咕视频8,http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+咪咕视频10,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+咪咕视频11,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+咪咕视频12,http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+咪咕视频13,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+咪咕视频14,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+咪咕视频15,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+咪咕视频16,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+咪咕视频8M3,http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+咪咕视频8M7,http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+咪咕视频8M8,http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+咪咕视频8M10,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+咪咕视频8M12,http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+咪咕视频8M13,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+咪咕视频 30M2160HDR,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+🦄咪咕视频-②🏆,#genre#
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+beIN Sports 1,https://donelfantastic.github.io/creativemedia/intl/beinsport1EN.m3u8
+NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+NBA Prime Video 1,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/903014
+NBA 1 Golden State Warriors,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51215
+NBA 10 Philadelphia 76ers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51255
+NBA 11 Detroit Pistons,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51259
+NBA 12 Milwaukee Bucks,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51260
+NBA 13 Denver Nuggets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51261
+NBA 14 Los Angeles Lakers,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51262
+NBA 15 New Orleans Pelicans,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51217
+NBA 17 Brooklyn Nets,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51220
+NBA 2 Miami Heat,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51216
+NBA 3 Boston Celtics,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51218
+NBA 4 Chicago Bulls,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
+NBA 5 Washington Wizards,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
+NBA One HD,http://49.0.64.96:8007/NBA
+TF1,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10111
+昵称违规-F16kfdVUAb,https://www.goodiptv.club/huya/24976467
+五星体育,http://tv.twwhwn.cn:4022/udp/239.45.3.210:5140
+五星体育,http://222.71.11.180:4022/udp/239.45.3.210:5140
+五星体育,http://222.70.172.214:4022/udp/239.45.3.210:5140
+五星体育,http://222.70.172.214:4022/udp/239.45.3.112:5140
+五星体育,http://180.158.49.188:4022/udp/239.45.3.210:5140
+五星体育,http://58.37.91.53:4000/udp/239.45.3.210:5140
+五星体育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=wxty
+五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+五星体育「组播」,http://58.37.189.39:8088/udp/239.45.3.210:5140
+五星体育「组播」,http://222.71.11.180:4022/udp/239.45.3.210:5140
+五星体育「组播」,http://116.233.174.144:10000/udp/239.45.3.210:5140
+五星体育「组播」,http://101.83.128.184:4022/udp/239.45.3.210:5140
+广东体育高清,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+广东体育,http://223.109.210.41/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+广东体育,http://125.92.140.53:8888/udp/239.77.0.112:5146
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东体育,http://api.52tb.xyz/info?id=413&token=20230331fbulna
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+五星体育广播,https://fanmingming.com/fm?id=845
